@@ -1,6 +1,6 @@
-Antonio ima x pobjeda i y poraza!
-Lovre ima z pobjeda i n poraza!
+Antonio ima 1 pobjeda i 0 poraza!
+Lovre ima 1 pobjeda i 0 poraza!
 
-o . o
+o o o
 x x x
 x . o
