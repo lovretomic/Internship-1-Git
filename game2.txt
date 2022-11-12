@@ -1,6 +1,6 @@
 Antonio ima x pobjeda i y poraza!
 Lovre ima z pobjeda i n poraza!
 
-o . .
-. . .
+. . o
+. . x
 x . o
