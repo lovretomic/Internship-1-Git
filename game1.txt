@@ -1,0 +1,6 @@
+[ime_igrača] ima x pobjeda i y poraza!
+[ime_igrača] ima z pobjeda i n poraza!
+
+. . .
+. . .
+. . .
